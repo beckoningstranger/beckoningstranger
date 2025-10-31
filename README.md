@@ -4,7 +4,7 @@ I'm a full-stack TypeScript developer building tools for language learning and k
 
 - 🧠 Maker of **[Linguardian](https://www.linguardian.com)** – spaced-repetition vocabulary trainer with a shared, user-generated dictionary.
 - ⚙️ Stack I use: **Next.js**, **Express**, **MongoDB**, **TypeScript**, **Docker**, **GitHub Actions**, **AWS (ECR + EC2)**.
-- 🗣️ I care about: thoughtful UX, data modeling for language content, and making learning efficient and fun without being over-gamified.
+- 🗣️ I care about understanding how things fit together — in code, in design, and in the way people use what I build. I like growing by learning how to do them a little better each time.
 - 📍 Based in Germany.
 
 ### 🔧 Tech
@@ -13,6 +13,7 @@ I'm a full-stack TypeScript developer building tools for language learning and k
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 <br>
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
