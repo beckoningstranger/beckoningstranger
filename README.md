@@ -4,7 +4,7 @@ I'm a full-stack TypeScript developer building tools for language learning and k
 
 - 🧠 Maker of **[Linguardian](https://www.linguardian.com)** – spaced-repetition vocabulary trainer with a shared, user-generated dictionary.
 - ⚙️ Stack I use: **Next.js**, **Express**, **MongoDB**, **TypeScript**, **Docker**, **GitHub Actions**, **AWS (ECR + EC2)**.
-- 🗣️ I care about understanding how things fit together — in code, in design, and in the way people use what I build. I like growing by learning how to do them a little better each time.
+- 🗣️ I care about understanding how things fit together and I like growing by learning how to do them a little better each time.
 - 📍 Based in Germany.
 
 ### 🔧 Tech
